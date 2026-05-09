@@ -147,7 +147,7 @@ Flutter-Music-Player/
 ## 1️⃣ Clonar el repositorio
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/isairey/FlutterMusicPlayer.git
 ```
 
 ---
@@ -155,7 +155,7 @@ git clone <repository-url>
 ## 2️⃣ Entrar al proyecto
 
 ```bash
-cd Flutter-Music-Player
+cd FlutterMusicPlayer
 ```
 
 ---
